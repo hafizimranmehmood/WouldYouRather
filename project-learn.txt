@@ -1,0 +1,17 @@
+learnt and apply components from the following links
+
+how i used Dropdown list with icon from 
+https://react.semantic-ui.com/modules/dropdown/#types-inline
+
+how i used menu, below is a example reference link
+https://react.semantic-ui.com/collections/menu/#content-menus
+
+how i used icon in navbar, below is an example reference link
+https://react.semantic-ui.com/elements/image/#variations-spaced
+
+how i used tabs 
+https://react.semantic-ui.com/modules/tab/#types-pointing
+https://stackoverflow.com/questions/50831329/how-do-center-semantic-ui-tab-menus-react
+
+how i got to know about PrivateRoute
+https://knowledge.udacity.com/questions/148549
